@@ -1,0 +1,51 @@
+/* spaces the navigation buttons in drop down menu */
+#about-btn {
+    margin: 10px;
+}
+
+#portfolio-btn {
+    margin: 10px;
+}
+
+#contact-btn {
+    margin: 10px;
+}
+
+#linkedin-btn {
+    color: #17a2b8;
+}
+
+#github-btn {
+    color: #17a2b8;
+}
+
+.port-cards {
+  float: left;
+  margin: 10px;
+  /* border-left-color:  #17a2b8;
+  border-bottom-color:  #17a2b8; */
+}
+
+
+h5 {
+    text-align: center;
+}
+
+.btn.btn-outline-info{
+    align-content: center;
+}
+
+#portfolio-page{
+    visibility: hidden;
+
+}
+
+#about-me-page {
+    visibility: hidden;
+
+}
+
+#contact-page{
+    visibility: hidden;
+
+}
